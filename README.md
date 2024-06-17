@@ -1,4 +1,4 @@
-# A list of online resources useful for devOps.
+# A list of online resources useful for DevOps.
 
 
 Here's is a list of links to resources that I think useful when dealing with devOps stuff.
