@@ -15,4 +15,5 @@ Here's is a list of links to resources that I think useful when dealing with dev
 - Setup SSL with Ubuntu NginX - https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-22-04
 - Setup Liux service with Systemd - https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6
 - DNS Lookup Tool - https://dnschecker.org/all-dns-records-of-domain.php
+- Install PostgreSQl and create DB - https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart
 
