@@ -18,4 +18,4 @@ Here's is a list of links to resources that I think useful when dealing with dev
 - Install PostgreSQl and create DB - https://www.digitalocean.com/community/tutorials/how-to-install-postgresql-on-ubuntu-20-04-quickstart
 - Make a Remote PGSQL Server using Ubuntu - https://blog.logrocket.com/setting-up-a-remote-postgres-database-server-on-ubuntu-18-04/
 - Add SWAP space on Ubuntu - https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-20-04
-
+- Add SSL using CERTBot on NGinx - https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04y
