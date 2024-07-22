@@ -3,9 +3,12 @@
 
 Here's is a list of links to resources that I think useful when dealing with devOps stuff.
 
-- Deploy React application to production - 
-https://create-react-app.dev/docs/deployment/
+- Deploy React application to production - https://create-react-app.dev/docs/deployment/
+
+
 - Deploy Next App to production - https://www.codewithharry.com/blogpost/hosting-a-next.js-app-in-production-on-ubuntu-vps
+
+
 - Setup Ubuntu VPS with Github SSH Key - https://medium.com/featurepreneur/setting-up-ssh-key-with-github-for-ubuntu-cd8f2fabf25b
 - Install Node on Ubuntu - https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04
 - Setup NginX on Ubuntu - https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04
