@@ -37,3 +37,4 @@ Here's is a list of links to resources that I think useful when dealing with dev
 
 - Add SSL using CERTBot on NGinx - https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04y
 
+- Install MySQL on Ubuntu Server - https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
