@@ -40,3 +40,5 @@ Here's is a list of links to resources that I think useful when dealing with dev
 - Install MySQL on Ubuntu Server - https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
 
 - Install ClamAv antivirus on Ubuntu - https://medium.com/@myingole28/complete-guide-to-clamav-installation-and-setup-on-ubuntu-linux-29e65566665f
+
+- Install Fail2Ban on ubuntu - https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-20-04
