@@ -42,3 +42,5 @@ Here's is a list of links to resources that I think useful when dealing with dev
 - Install ClamAv antivirus on Ubuntu - https://medium.com/@myingole28/complete-guide-to-clamav-installation-and-setup-on-ubuntu-linux-29e65566665f
 
 - Install Fail2Ban on ubuntu - https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-20-04
+
+- Install Docker on Ubuntu 22.04 - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
